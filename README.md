@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majeed Mujawar</h1>
-<h3 align="center">Aspiring DevOps & Cloud Engineer from India 🇮🇳</h3>
+<h3 align="center">Aspiring DevOps & Cloud Engineer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AWS+%7C+Linux+%7C+Networking;DevOps+Enthusiast;Learning+Cloud+Engineering;Always+Learning+New+Things" alt="Typing SVG" />
